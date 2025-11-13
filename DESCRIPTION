@@ -1,6 +1,6 @@
 Package: datasummary
 Title: Data Summarization by Group
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: 
     person("Joy", "Yu", , "first.last@example.com", role = c("aut", "cre"))
 Description: The goal of datasummary is to summary data by group. The function in it will calculate the number of rows, numeric columns' mean value and categorical columns' number of unique values for each group.

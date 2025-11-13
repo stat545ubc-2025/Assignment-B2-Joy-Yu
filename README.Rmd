@@ -25,7 +25,7 @@ The goal of datasummary is to summary data by group. The `group_summary` functio
 You can install the development version of datasummary like so:
 
 Package installation can be done directly by calling
-`devtools::install_github("circle117/datasummary")`
+`devtools::install_github("stat545ubc-2025/datasummary")`
 
 ## Example
 

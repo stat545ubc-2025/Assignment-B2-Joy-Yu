@@ -16,7 +16,7 @@ and categorical columns’ number of unique values for each group.
 You can install the development version of datasummary like so:
 
 Package installation can be done directly by calling
-`devtools::install_github("circle117/datasummary")`
+`devtools::install_github("stat545ubc-2025/datasummary")`
 
 ## Example
 
